@@ -1,6 +1,4 @@
----
-:point_down: **COMECE POR AQUI!** :point_down:
----
+❗️ 👉 *COMECE POR AQUI!* 👈 ❗️
 
 Um guia abrangente para iniciantes na área de cibersegurança.
 
