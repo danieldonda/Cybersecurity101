@@ -7,10 +7,10 @@ Um guia abrangente para iniciantes na área de cibersegurança.
 
 ## 📖 Conteúdo
 
- - [Trilha de Estudo](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#trilha-de-estudo)
- -  [Guia de Certificações](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-guia-de-certifica%C3%A7%C3%B5es)
- - [Fundamentos de Cibersegurança](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-fundamentos-de-ciberseguran%C3%A7a)
- -  [Soft skills](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#soft-skills)
+ - [Trilha de Estudo](#trilha-de-estudo)
+ -  [Guia de Certificações](#-guia-de-certifica%C3%A7%C3%B5es)
+ - [Fundamentos de Cibersegurança](#-fundamentos-de-ciberseguran%C3%A7a)
+ -  [Soft skills](#soft-skills)
  -  [Eventos no Brasil](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-eventos-no-brasil)
  -  [Laboratórios Virtuais](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#laborat%C3%B3rios-virtuais)
  -  [Desafios CTF (Capture The Flag)](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#%EF%B8%8Fdesafios-ctf-capture-the-flag)
