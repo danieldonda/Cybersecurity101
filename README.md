@@ -1,12 +1,12 @@
-# **COMECE POR AQUI!**
+# ⚠️ **COMECE POR AQUI!**
 
 Um guia abrangente para iniciantes na área de cibersegurança.
 
 ## 📚Trilha de Estudo
 
-### 🎓 Faculdade vs. 💼 Certificações para Cibersegurança
+### 🎓Faculdade vs. 💼 Certificações para Cibersegurança
 
-###  🎓Faculdade Prós e Contras 
+### 🎓Faculdade Prós e Contras 
 
 **Prós:**
 
