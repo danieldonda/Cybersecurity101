@@ -10,9 +10,19 @@ Um guia abrangente para iniciantes na área de cibersegurança.
  - [Fundamentos de Cibersegurança](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-fundamentos-de-ciberseguran%C3%A7a)
  -  [Soft skills](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#soft-skills)
  -  [Eventos no Brasil](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-eventos-no-brasil)
- -  [Recursos importantes:](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#recursos-importantes)
- - 
-
+ -  [Laboratórios Virtuais](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#laborat%C3%B3rios-virtuais)
+ -  [Desafios CTF (Capture The Flag)](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#%EF%B8%8Fdesafios-ctf-capture-the-flag)
+ -  [Sites e Blogs Recomendados:](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-sites-e-blogs-recomendados)
+ -  [Podcasts sobre Cibersegurança:](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-podcasts-sobre-ciberseguran%C3%A7a)
+ -  [Ferramentas Essenciais:](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-ferramentas-essenciais)
+ -  [Reddit: Subreddits para discussões.](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-reddit-subreddits-para-discuss%C3%B5es)
+ -  [Youtube: Canais sobre Cibersegurança Brasileiros.](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-youtube-canais-sobre-ciberseguran%C3%A7a-brasileiros)
+ -  [Youtube: USA](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-youtube-usa)
+ -  [Awesome Github – Repositórios para cibersegurança](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#awesome-github--reposit%C3%B3rios-para-ciberseguran%C3%A7a)
+ -  [Frameworks e Melhores Práticas](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-frameworks-e-melhores-pr%C3%A1ticas)
+ 
+ ---
+ 
 ## 📚Trilha de Estudo
 
 ### Eu devo fazer Faculdade ou uma certificação para começar a trabalhar em Cibersegurança 🤔 ?
