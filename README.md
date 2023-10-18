@@ -1,4 +1,3 @@
-
 # 📣 **COMECE POR AQUI!**
 
 Um guia abrangente para iniciantes na área de cibersegurança.
@@ -189,12 +188,23 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 
 ## 🔍 Sites e Blogs Recomendados:
 
--   **[Daniel Donda](https://danieldonda.com)**: Site onde eu compartilho artigos e recursos de cibersegurança.
-- **[Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal)**: Coletivo hacker paulistano com eventos e workshops frequentes.
-- **[SegInfo](https://seginfo.com.br/)**: Blog com notícias, artigos e informações sobre segurança da informação.
-- **[Segurança Legal](https://segurancalegal.com/)**: Blog focado em cibersegurança e aspectos legais da tecnologia.
-- **[Mind The Sec](https://mindthesec.com.br/)**: Conferência de segurança da informação que também conta com um blog com notícias e análises.
+-   [Daniel Donda](https://danieldonda.com) Site onde eu compartilho artigos e recursos de cibersegurança.
+- [Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal): Coletivo hacker paulistano com eventos e workshops frequentes.
+- [SegInfo](https://seginfo.com.br/) Blog com notícias, artigos e informações sobre segurança da informação.
+- [Segurança Legal](https://segurancalegal.com/) Blog focado em cibersegurança e aspectos legais da tecnologia.
+-[Mind The Sec](https://mindthesec.com.br) Conferência de segurança da informação que também conta com um blog com notícias e análises.
 
+### Em inglês:
+-   [Krebs on Security](https://krebsonsecurity.com/)
+-   [The Hacker News](https://thehackernews.com/)
+-   [Dark Reading](https://www.darkreading.com/)
+-   [Threatpost](https://threatpost.com/)
+-   [Infosecurity Magazine](https://www.infosecurity-magazine.com/)
+-   [ZDNet Security](https://www.zdnet.com/topic/security/)
+-   [CyberScoop](https://www.cyberscoop.com/)
+-   [SecurityWeek](https://www.securityweek.com/)
+-   [SC Magazine](https://www.scmagazine.com/)
+-   [Wired - Security Section](https://www.wired.com/category/security/)
 
 ## 🎧 Podcasts sobre Cibersegurança:
 
@@ -237,66 +247,55 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 - **SIFT**: Kit de ferramentas forenses.
 - **Volatility**: Análise de memória forense.
 
+## 🚀 **Reddit**: Subreddits para discussões.
+ 
+ - **r/netsec** - Este subreddit é dedicado a discussões de alto nível sobre segurança da informação.
+ - **r/AskNetsec** - Um lugar para perguntar a profissionais de segurança questões relacionadas ao campo.
+ - **r/cybersecurity** - Discussão geral sobre cibersegurança.
+ - **r/ReverseEngineering** - Um subreddit para os interessados em reverse engineering.
+ - **r/malware** - Discussões sobre malwares e artefatos relacionados.
+ - **r/pentest** - Focado em testes de penetração e ferramentas/técnicas relacionadas.
+ -  **r/Hacking_Tutorials** - Focado em tutoriais hackers
+ - **r/hacking** - Um lugar para hackers e aspirantes a hackers aprenderem e compartilharem.
+ - **r/ComputerForensics** - Discussão sobre forense digital e tópicos relacionados.
+ - **r/HowToHack** - Comunidade Hacker.
+ - **r/CompTIA** - Comunidade sobre certificações da CompTIA
 
-## 🌐 Redes Sociais e Grupos:
+## 📺 **Youtube**: Canais sobre Cibersegurança Brasileiros.
+		
+- [Papo Binário](https://www.youtube.com/c/PapoBin%C3%A1rio)  –Entrevistas, tutoriais e dicas voltada a TI e cibersegurança
+-  [Ricardo Longatto](https://www.youtube.com/@RicardoLongatto)  – Segurança da      informação, pentest, técnicas de invasão
+-  [Guia Anônima](https://www.youtube.com/user/adsecf)  – Metodologias, técnicas, entrevistas e tutoriais
+- [Fabio Sobiecki](https://www.youtube.com/@FabioSobiecki)  – Ajuda a    profissionais a conquistarem sua primeira vaga em Segurança    da       Informação.
+- [prog.shell.linux](https://www.youtube.com/channel/UCpIYXOF825aX8qq77xnTCLQ)    – Curso de Shell Linux com o Prof. Julio Cezar Neves
+- [Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001)  – Curso de       Redes, Curso GNU/Linux – Tutoriais – Solução de problemas
+- [SecurityCast](https://www.youtube.com/user/securitycast) – Programas    quinzenais sobre Segurança da Informação
+- [100SECURITY](https://www.youtube.com/@videos100security/about) –        Profissionais de Segurança da Informação
+- [Gabriel Pato](https://www.youtube.com/@GabrielPato/) – Tecnologia e Hacking
+-  [Daniel Donda](https://www.youtube.com/@danieldonda) – O melhor canal do youtube
+-  [Academia de Forense Digital](https://www.youtube.com/c/AcademiadeForenseDigital)  –          Ensino e desenvolvimento de Forense Digital no Brasil
 
- -   **Twitter**: Insights e notícias.
-    
-	    -   @SwiftOnSecurity
-	    -   @briankrebs
-	    -   @troyhunt
-	    - @MalwareTechBlog
-	    - @DanielMiessler
-    
- -   **Reddit**: Subreddits para discussões.
-	    
-		-  **r/netsec** - Este subreddit é dedicado a discussões de alto nível sobre segurança da informação.
-		- **r/AskNetsec** - Um lugar para perguntar a profissionais de segurança questões relacionadas ao campo.
-		- **r/cybersecurity** - Discussão geral sobre cibersegurança.
-		- **r/ReverseEngineering** - Um subreddit para os interessados em reverse engineering.
-		- **r/malware** - Discussões sobre malwares e artefatos relacionados.
-		- **r/pentest** - Focado em testes de penetração e ferramentas/técnicas relacionadas.
-		-  **r/Hacking_Tutorials** - Focado em tutoriais hackers
-		- **r/hacking** - Um lugar para hackers e aspirantes a hackers aprenderem e compartilharem.
-		- **r/ComputerForensics** - Discussão sobre forense digital e tópicos relacionados.
-		- **r/HowToHack** - Comunidade Hacker.
-		- **r/CompTIA** - Comunidade sobre certificações da CompTIA
+## 📺 **Youtube**: USA
 
- -   **Youtube**: Canais sobre Cibersegurança Brasileiros.
-
-		- [Papo Binário](https://www.youtube.com/c/PapoBin%C3%A1rio)  –          Entrevistas, tutoriais e dicas voltada a TI e cibersegurança
-		 -   [Ricardo Longatto](https://www.youtube.com/@RicardoLongatto)  – Segurança da informação, pentest, técnicas de invasão
-		 -   [Guia Anônima](https://www.youtube.com/user/adsecf)  – Metodologias, técnicas, entrevistas e tutoriais
-		 -   [Fabio Sobiecki](https://www.youtube.com/@FabioSobiecki)  – Ajuda a profissionais a conquistarem sua primeira vaga em Segurança      da    Informação.
-		 -   [prog.shell.linux](https://www.youtube.com/channel/UCpIYXOF825aX8qq77xnTCLQ)    – Curso de Shell Linux com o Prof. Julio Cezar Neves
-		 -   [Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001)  – Curso de Redes, Curso GNU/Linux – Tutoriais – Solução de problemas
-		 -   [SecurityCast](https://www.youtube.com/user/securitycast) – Programas quinzenais sobre Segurança da Informação
-		 -   [100SECURITY](https://www.youtube.com/@videos100security/about) –    Profissionais de Segurança da Informação
-		 -   [Gabriel Pato](https://www.youtube.com/@GabrielPato/) – Tecnologia e Hacking
-		 -   [Daniel Donda](https://www.youtube.com/@danieldonda) – O melhor canal do youtube
-		 -   [Academia de Forense Digital](https://www.youtube.com/c/AcademiadeForenseDigital)  –          Ensino e desenvolvimento de Forense Digital no Brasil
-
-- 🎥 **Canais no Youtube USA**
-
-	- [Cyber Security Hub](https://www.youtube.com/user/CyberSecurityHub) 	  - Oferece notícias, entrevistas e análises sobre as mais recentes ameaças e soluções de segurança.
-	- [Adrian Crenshaw (IronGeek)](https://www.youtube.com/user/irongeek) 	  - Compila e compartilha várias palestras e tutoriais de conferências de segurança.
-	- [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified) 	  - Embora seja mais voltado para o desenvolvimento web, frequentemente aborda tópicos de segurança web, como Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
-	- [NetworkChuck](https://www.youtube.com/c/NetworkChuck) 	  - Enquanto este canal aborda uma ampla gama de tópicos de TI, frequentemente explora aspectos de cibersegurança, especialmente relacionados a redes.
-	- [Cyber Weapons Lab](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ) 	  - Uma série que explora hacking ético, ferramentas de segurança e técnicas.
-	- [Professor Messer](https://www.youtube.com/user/professormesser) 	  - Conhecido por seus cursos de certificação, incluindo CompTIA Security+.
-	- [MalwareTech](https://www.youtube.com/user/MalwareTech) 	  - Como o nome sugere, este canal se concentra principalmente na análise de malware e no estudo de botnets.
-	- [Jenny Radcliffe - The People Hacker](https://www.youtube.com/channel/UCJUFUScDG1t0Z_5mndVGfAg) 	  - Jenny é uma especialista em engenharia social e frequentemente compartilha insights sobre o lado humano da cibersegurança.
-	- [CyberSecLabs](https://www.youtube.com/c/CyberSecLabs) 	  - Oferece tutoriais práticos e walkthroughs de boxes de pentesting.
-	- [DETECTIFY LABS](https://www.youtube.com/c/Detectify) 	  - Detectify é uma empresa de segurança que frequentemente compartilha descobertas, vulnerabilidades e dicas sobre segurança web.
-	- [PwnFunction](https://www.youtube.com/c/PwnFunction) 	  - Este canal explora vulnerabilidades, com uma ênfase particular em JavaScript e segurança web.
-	- [Hak5](https://www.youtube.com/user/Hak5Darren)   - Um dos canais mais antigos sobre hacking e segurança cibernética, apresentando uma variedade de conteúdos, desde ferramentas a tutoriais. 
-	- [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF)   - Oferece uma série de vídeos que se aprofundam em diversos tópicos de segurança, especialmente relacionados a CTFs (Capture The Flag) e vulnerabilidades.
-	- [Black Hat](https://www.youtube.com/user/ToolsWatch)   - O canal oficial do Black Hat, uma das mais renomadas conferências de segurança. Contém palestras e apresentações dos eventos.
-	- [DefconConference](https://www.youtube.com/user/DEFCONConference)  - Semelhante ao Black Hat, é o canal oficial da DEFCON, uma das maiores e mais antigas conferências de hackers.
-	- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)  - Oferece tutoriais práticos e cursos sobre ethical hacking e segurança cibernética.
-	- [Null Byte](https://www.youtube.com/c/NullByteWht)  - Foca em tutoriais sobre hacking ético e ferramentas populares, ideal para iniciantes e intermediários.
-	- [STÖK](https://www.youtube.com/c/stokfredrik)  - Oferece insights sobre a vida de um hacker ético, com dicas e truques sobre pentesting e segurança cibernética.
-	- [John Hammond](https://www.youtube.com/c/JohnHammond010)  - Oferece tutoriais, desafios de CTF e dicas sobre segurança cibernética e ethical hacking.
+- [Cyber Security Hub](https://www.youtube.com/user/CyberSecurityHub) 	  - Oferece notícias, entrevistas e análises sobre as mais recentes ameaças e soluções de segurança.
+- [Adrian Crenshaw (IronGeek)](https://www.youtube.com/user/irongeek) 	  - Compila e compartilha várias palestras e tutoriais de conferências de segurança.
+- [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified) 	  - Embora seja mais voltado para o desenvolvimento web, frequentemente aborda tópicos de segurança web, como Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
+- [NetworkChuck](https://www.youtube.com/c/NetworkChuck) 	  - Enquanto este canal aborda uma ampla gama de tópicos de TI, frequentemente explora aspectos de cibersegurança, especialmente relacionados a redes.
+- [Cyber Weapons Lab](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ) 	  - Uma série que explora hacking ético, ferramentas de segurança e técnicas.
+- [Professor Messer](https://www.youtube.com/user/professormesser) 	  - Conhecido por seus cursos de certificação, incluindo CompTIA Security+.
+- [MalwareTech](https://www.youtube.com/user/MalwareTech) 	  - Como o nome sugere, este canal se concentra principalmente na análise de malware e no estudo de botnets.
+- [Jenny Radcliffe - The People Hacker](https://www.youtube.com/channel/UCJUFUScDG1t0Z_5mndVGfAg) 	  - Jenny é uma especialista em engenharia social e frequentemente compartilha insights sobre o lado humano da cibersegurança.
+- [CyberSecLabs](https://www.youtube.com/c/CyberSecLabs) 	  - Oferece tutoriais práticos e walkthroughs de boxes de pentesting.
+- [DETECTIFY LABS](https://www.youtube.com/c/Detectify) 	  - Detectify é uma empresa de segurança que frequentemente compartilha descobertas, vulnerabilidades e dicas sobre segurança web.
+- [PwnFunction](https://www.youtube.com/c/PwnFunction) 	  - Este canal explora vulnerabilidades, com uma ênfase particular em JavaScript e segurança web.
+- [Hak5](https://www.youtube.com/user/Hak5Darren)   - Um dos canais mais antigos sobre hacking e segurança cibernética, apresentando uma variedade de conteúdos, desde ferramentas a tutoriais. 
+- [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF)   - Oferece uma série de vídeos que se aprofundam em diversos tópicos de segurança, especialmente relacionados a CTFs (Capture The Flag) e vulnerabilidades.
+- [Black Hat](https://www.youtube.com/user/ToolsWatch)   - O canal oficial do Black Hat, uma das mais renomadas conferências de segurança. Contém palestras e apresentações dos eventos.
+- [DefconConference](https://www.youtube.com/user/DEFCONConference)  - Semelhante ao Black Hat, é o canal oficial da DEFCON, uma das maiores e mais antigas conferências de hackers.
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)  - Oferece tutoriais práticos e cursos sobre ethical hacking e segurança cibernética.
+- [Null Byte](https://www.youtube.com/c/NullByteWht)  - Foca em tutoriais sobre hacking ético e ferramentas populares, ideal para iniciantes e intermediários.
+- [STÖK](https://www.youtube.com/c/stokfredrik)  - Oferece insights sobre a vida de um hacker ético, com dicas e truques sobre pentesting e segurança cibernética.
+- [John Hammond](https://www.youtube.com/c/JohnHammond010)  - Oferece tutoriais, desafios de CTF e dicas sobre segurança cibernética e ethical hacking.
 
 ## 💎Awesome Github – Repositórios para cibersegurança
 
@@ -313,10 +312,10 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 ## 🔐 Frameworks e Melhores Práticas
 
  
--   [**Framework MITRE Adversarial Tactics Techniques e Common Knowledge® (MITRE ATT&CK®)**](https://attack.mitre.org/)  – A estrutura MITRE ATT&CK é uma base de conhecimento com curadoria e um modelo para o comportamento do adversário cibernético, refletindo as várias fases do ciclo de vida do ataque de um adversário e as plataformas que eles visam.
--   **[National Institute of Standards and Technology® (NIST®)](https://www.nist.gov/)** – O  **National Institute of Standards and Technology,**  anteriormente conhecido como The National Bureau of Standards, é uma agência governamental não regulatória da administração de tecnologia do Departamento de Comércio dos Estados Unidos.  **Possui um excelente framework de cibersegurança.**
--   [**Cloud Security Alliance (CSA)**](https://cloudsecurityalliance.org/)  – A  **Cloud Security Alliance**  é uma organização sem fins lucrativos com a missão de “promover o uso das  **melhores práticas para fornecer garantia de segurança na computação em nuvem**
--   [**Software Assurance Forum for Excellence in Code (SAFECode)**](https://safecode.org/)  – O SAFECode é um esforço global liderado pela indústria para identificar e promover as  **melhores práticas para desenvolver e fornecer software, hardware e serviços mais seguros e confiáveis.**
--   [**Open Web Application Security Project® (OWASP®)**](https://owasp.org/)  – O **Open Web Application Security Project (OWASP)** é uma fundação sem fins lucrativos que fornece orientação sobre como desenvolver, comprar e manter aplicativos de software confiáveis e seguros.  **OWASP é conhecido por sua popular lista Top 10 de vulnerabilidades de segurança de aplicativos da web.**
--   **[International Organization for Standardization (ISO)](https://www.itgovernance.asia/iso27000-family)** – Normas ISO foram criadas para fornecer orientação, coordenação, simplificação e unificação de critérios para empresas e organizações. A família  **ISO 27000** é um conjunto de certificações de segurança da informação e proteção de dados. Elas servem como base para a criação de um **Sistema de Gestão de Segurança da Informação (SGSI)** em organizações de pequeno, médio e grande porte.
--   [**CIS Critical Security Controls**](https://www.cisecurity.org/controls)  – **CIS Controls**  é uma publicação de diretrizes de melhores práticas para segurança.
+-   [Framework MITRE Adversarial Tactics Techniques e Common Knowledge® (MITRE ATT&CK®)](https://attack.mitre.org/)  – A estrutura MITRE ATT&CK é uma base de conhecimento com curadoria e um modelo para o comportamento do adversário cibernético, refletindo as várias fases do ciclo de vida do ataque de um adversário e as plataformas que eles visam.
+-   [National Institute of Standards and Technology® (NIST®)](https://www.nist.gov/) – O  **National Institute of Standards and Technology,**  anteriormente conhecido como The National Bureau of Standards, é uma agência governamental não regulatória da administração de tecnologia do Departamento de Comércio dos Estados Unidos.  **Possui um excelente framework de cibersegurança.**
+-   [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/)  – A  **Cloud Security Alliance**  é uma organização sem fins lucrativos com a missão de “promover o uso das  **melhores práticas para fornecer garantia de segurança na computação em nuvem**
+-   [Software Assurance Forum for Excellence in Code (SAFECode)](https://safecode.org/)  – O SAFECode é um esforço global liderado pela indústria para identificar e promover as  **melhores práticas para desenvolver e fornecer software, hardware e serviços mais seguros e confiáveis.**
+-   [Open Web Application Security Project® (OWASP®)](https://owasp.org/)  – O **Open Web Application Security Project (OWASP)** é uma fundação sem fins lucrativos que fornece orientação sobre como desenvolver, comprar e manter aplicativos de software confiáveis e seguros.  **OWASP é conhecido por sua popular lista Top 10 de vulnerabilidades de segurança de aplicativos da web.**
+-   [International Organization for Standardization (ISO)](https://www.itgovernance.asia/iso27000-family) – Normas ISO foram criadas para fornecer orientação, coordenação, simplificação e unificação de critérios para empresas e organizações. A família  **ISO 27000** é um conjunto de certificações de segurança da informação e proteção de dados. Elas servem como base para a criação de um **Sistema de Gestão de Segurança da Informação (SGSI)** em organizações de pequeno, médio e grande porte.
+-   [CIS Critical Security Controls](https://www.cisecurity.org/controls)  – **CIS Controls**  é uma publicação de diretrizes de melhores práticas para segurança.
