@@ -1,16 +1,21 @@
+
 # 📣 **COMECE POR AQUI!**
 
 Um guia abrangente para iniciantes na área de cibersegurança.
 
 ## 📖 Conteúdo
 
-Trilha de Estudo
-Fundamentos de Cibersegurança
-Soft skills
+ - [Trilha de Estudo](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#trilha-de-estudo)
+ -  [Guia de Certificações](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-guia-de-certifica%C3%A7%C3%B5es)
+ - [Fundamentos de Cibersegurança](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-fundamentos-de-ciberseguran%C3%A7a)
+ -  [Soft skills](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#soft-skills)
+ -  [Eventos no Brasil](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-eventos-no-brasil)
+ -  [Recursos importantes:](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#recursos-importantes)
+ - 
 
 ## 📚Trilha de Estudo
 
-### Eu devo fazer Faculdade ou uma certificaão para começar a trabalhar em Cibersegurança 🤔 ?
+### Eu devo fazer Faculdade ou uma certificação para começar a trabalhar em Cibersegurança 🤔 ?
 
 O mercado de trabalho em cibersegurança é semelhante aos outros: quanto mais qualificações você tiver, melhor. Afinal, o mercado está se tornando competitivo, e você deve sempre se destacar para conquistar uma oportunidade.
 
@@ -152,40 +157,27 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 
 
 
-## 🔗Recursos importantes:
+## 💻Laboratórios Virtuais
 
+   **Laboratórios Virtuais**: São ambientes controlados onde se pode praticar e testar habilidades de cibersegurança.
+    
+ - [PentesterLab](https://pentesterlab.com/)
+ - [VulnHub](https://www.vulnhub.com/)
+ - [Hack The Box](https://www.hackthebox.eu/)
+   
+## 🏴‍☠️Desafios CTF (Capture The Flag)
 
--   **Laboratórios Virtuais**: São ambientes controlados onde se pode praticar e testar habilidades de cibersegurança.
+-   [picoCTF](https://picoctf.org/)
+-   [Hack The Box](https://www.hackthebox.eu/)
+-   [OverTheWire](https://overthewire.org/wargames/)
+-   [Root Me](https://www.root-me.org/)
+-   [CTFtime](https://ctftime.org/)
+-   [DEF CON CTF](https://www.defcon.org/)
+-   [Google CTF](https://capturetheflag.withgoogle.com/)
+-   [CSAW CTF](https://csaw.engineering.nyu.edu/)
+-   [RingZer0 CTF](https://ringzer0ctf.com/)
+-   [Hacker101 CTF](https://ctf.hacker101.com/)
     
-    -   [PentesterLab](https://pentesterlab.com/)
-    -   [VulnHub](https://www.vulnhub.com/)
-    -   [Hack The Box](https://www.hackthebox.eu/)
-    - 
--   **Desafios CTF (Capture The Flag)**: Competições de cibersegurança.
-	-   [picoCTF](https://picoctf.org/)
-	-   [Hack The Box](https://www.hackthebox.eu/)
-	-   [OverTheWire](https://overthewire.org/wargames/)
-	-   [Root Me](https://www.root-me.org/)
-	-   [CTFtime](https://ctftime.org/)
-	-   [DEF CON CTF](https://www.defcon.org/)
-	-   [Google CTF](https://capturetheflag.withgoogle.com/)
-	-   [CSAW CTF](https://csaw.engineering.nyu.edu/)
-	-   [RingZer0 CTF](https://ringzer0ctf.com/)
-	-   [Hacker101 CTF](https://ctf.hacker101.com/)
-    
--   **Manter-se Informado**: Sites de notícias sobre cibersegurança.
-    
-	-   [Krebs on Security](https://krebsonsecurity.com/)
-	-   [The Hacker News](https://thehackernews.com/)
-	-   [Dark Reading](https://www.darkreading.com/)
-	-   [Threatpost](https://threatpost.com/)
-	-   [Infosecurity Magazine](https://www.infosecurity-magazine.com/)
-	-   [ZDNet Security](https://www.zdnet.com/topic/security/)
-	-   [CyberScoop](https://www.cyberscoop.com/)
-	-   [SecurityWeek](https://www.securityweek.com/)
-	-   [SC Magazine](https://www.scmagazine.com/)
-	-   [Wired - Security Section](https://www.wired.com/category/security/)
-
 ## 🔍 Sites e Blogs Recomendados:
 
 -   [Daniel Donda](https://danieldonda.com) Site onde eu compartilho artigos e recursos de cibersegurança.
