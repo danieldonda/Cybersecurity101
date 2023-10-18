@@ -3,6 +3,9 @@
 
 Um guia abrangente para iniciantes na área de cibersegurança.
 
+![Logo streamer moderna preto e azul  (500 x 400 px)](https://github.com/danieldonda/Cybersecurity101/assets/16530643/31ef4eab-4871-4d67-902f-78e0438f3eb2)
+
+
 ## 📖 Conteúdo
 
  - [Trilha de Estudo](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#trilha-de-estudo)
