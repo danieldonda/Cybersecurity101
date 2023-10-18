@@ -1,5 +1,5 @@
 ---
-:exclamation: :point_right: **COMECE POR AQUI!** :point_left: :exclamation:
+:point_down: **COMECE POR AQUI!** :point_down:
 ---
 
 Um guia abrangente para iniciantes na área de cibersegurança.
