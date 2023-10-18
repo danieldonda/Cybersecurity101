@@ -1,6 +1,13 @@
+
 # 📣 **COMECE POR AQUI!**
 
 Um guia abrangente para iniciantes na área de cibersegurança.
+
+## 📖 Conteúdo
+
+Trilha de Estudo
+Fundamentos de Cibersegurança
+Soft skills
 
 ## 📚Trilha de Estudo
 
@@ -9,6 +16,7 @@ Um guia abrangente para iniciantes na área de cibersegurança.
 O mercado de trabalho em cibersegurança é semelhante aos outros: quanto mais qualificações você tiver, melhor. Afinal, o mercado está se tornando competitivo, e você deve sempre se destacar para conquistar uma oportunidade.
 
 ### 🎓Faculdade Prós e Contras 
+
 
 **Prós:**
 
@@ -40,12 +48,12 @@ O mercado de trabalho em cibersegurança é semelhante aos outros: quanto mais q
 ***Lembrando, o mais importante é a curiosidade e a vontade de aprender. A cibersegurança é um campo vasto, e sempre haverá algo novo a ser descoberto. Comece com o básico, construa uma base sólida e avance gradualmente para tópicos mais complexos.***
 
 ---
+
+## 📝 Guia de Certificações 
 **Paul Jerimy** compilou **436 certificações** (abril de 2022) e criou um **[roadmap](https://pauljerimy.com/security-certification-roadmap/)** de certificação de segurança para iniciantes, intermediários e experts.
 ![](https://danieldonda.com/wp-content/uploads/2022/06/image-9-1024x505.png)
 
 🚨 Acesse *[Roteiro de certificação de segurança](https://danieldonda.com/roteiro-de-certificacao-de-seguranca/)*
-
----
 
 ### 🔒 Fundamentos de Cibersegurança
 
@@ -143,7 +151,10 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 -   [BWCON](http://www.bwcon.com.br/) (Recife)
 -   [Gartner Security & Risk Management Summit](https://www.gartner.com/events/pt/la/security) (São Paulo)
 
+
+
 ## 🔗Recursos importantes:
+
 
 -   **Laboratórios Virtuais**: São ambientes controlados onde se pode praticar e testar habilidades de cibersegurança.
     
@@ -178,6 +189,7 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 
 ## 🔍 Sites e Blogs Recomendados:
 
+-   **[Daniel Donda](https://danieldonda.com)**: Site onde eu compartilho artigos e recursos de cibersegurança.
 - **[Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal)**: Coletivo hacker paulistano com eventos e workshops frequentes.
 - **[SegInfo](https://seginfo.com.br/)**: Blog com notícias, artigos e informações sobre segurança da informação.
 - **[Segurança Legal](https://segurancalegal.com/)**: Blog focado em cibersegurança e aspectos legais da tecnologia.
@@ -250,7 +262,7 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 		- **r/HowToHack** - Comunidade Hacker.
 		- **r/CompTIA** - Comunidade sobre certificações da CompTIA
 
- -   **Youtube**: Canais sobre Cibersegurança.
+ -   **Youtube**: Canais sobre Cibersegurança Brasileiros.
 
 		- [Papo Binário](https://www.youtube.com/c/PapoBin%C3%A1rio)  –          Entrevistas, tutoriais e dicas voltada a TI e cibersegurança
 		 -   [Ricardo Longatto](https://www.youtube.com/@RicardoLongatto)  – Segurança da informação, pentest, técnicas de invasão
@@ -286,7 +298,6 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 	- [STÖK](https://www.youtube.com/c/stokfredrik)  - Oferece insights sobre a vida de um hacker ético, com dicas e truques sobre pentesting e segurança cibernética.
 	- [John Hammond](https://www.youtube.com/c/JohnHammond010)  - Oferece tutoriais, desafios de CTF e dicas sobre segurança cibernética e ethical hacking.
 
-
 ## 💎Awesome Github – Repositórios para cibersegurança
 
 -   [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
@@ -298,15 +309,14 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 -   [Awesome Forensic Tools](https://github.com/ivbeg/awesome-forensicstools)
 -   [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
 
----
+
 ## 🔐 Frameworks e Melhores Práticas
 
-  -   [**Framework MITRE Adversarial Tactics Techniques e Common Knowledge® (MITRE ATT&CK®)**](https://attack.mitre.org/)  – A estrutura MITRE ATT&CK é uma base de conhecimento com curadoria e um modelo para o comportamento do adversário cibernético, refletindo as várias fases do ciclo de vida do ataque de um adversário e as plataformas que eles visam.
-  -   **[National Institute of Standards and Technology® (NIST®)](https://www.nist.gov/)** – O  **National Institute of Standards and Technology,**  anteriormente conhecido como The National Bureau of Standards, é uma agência governamental não regulatória da administração de tecnologia do Departamento de Comércio dos Estados Unidos.  **Possui um excelente framework de cibersegurança.**
-   -   [**Cloud Security Alliance (CSA)**](https://cloudsecurityalliance.org/)  – A  **Cloud Security Alliance**  é uma organização sem fins lucrativos com a missão de “promover o uso das  **melhores práticas para fornecer garantia de segurança na computação em nuvem**
-   -   [**Software Assurance Forum for Excellence in Code (SAFECode)**](https://safecode.org/)  – O SAFECode é um esforço global liderado pela indústria para identificar e promover as  **melhores práticas para desenvolver e fornecer software, hardware e serviços mais seguros e confiáveis.**
-   -   [**Open Web Application Security Project® (OWASP®)**](https://owasp.org/)  – O **Open Web Application Security Project (OWASP)** é uma fundação sem fins lucrativos que fornece orientação sobre como desenvolver, comprar e manter aplicativos de software confiáveis e seguros.  **OWASP é conhecido por sua popular lista Top 10 de vulnerabilidades de segurança de aplicativos da web.**
-   -   **[International Organization for Standardization (ISO)](https://www.itgovernance.asia/iso27000-family)** – Normas ISO foram criadas para fornecer orientação, coordenação, simplificação e unificação de critérios para empresas e organizações. A família  **ISO 27000** é um conjunto de certificações de segurança da informação e proteção de dados. Elas servem como base para a criação de um **Sistema de Gestão de Segurança da Informação (SGSI)** em organizações de pequeno, médio e grande porte.
-   -   [**CIS Critical Security Controls**](https://www.cisecurity.org/controls)  – **CIS Controls**  é uma publicação de diretrizes de melhores práticas para segurança.
-
-
+ 
+-   [**Framework MITRE Adversarial Tactics Techniques e Common Knowledge® (MITRE ATT&CK®)**](https://attack.mitre.org/)  – A estrutura MITRE ATT&CK é uma base de conhecimento com curadoria e um modelo para o comportamento do adversário cibernético, refletindo as várias fases do ciclo de vida do ataque de um adversário e as plataformas que eles visam.
+-   **[National Institute of Standards and Technology® (NIST®)](https://www.nist.gov/)** – O  **National Institute of Standards and Technology,**  anteriormente conhecido como The National Bureau of Standards, é uma agência governamental não regulatória da administração de tecnologia do Departamento de Comércio dos Estados Unidos.  **Possui um excelente framework de cibersegurança.**
+-   [**Cloud Security Alliance (CSA)**](https://cloudsecurityalliance.org/)  – A  **Cloud Security Alliance**  é uma organização sem fins lucrativos com a missão de “promover o uso das  **melhores práticas para fornecer garantia de segurança na computação em nuvem**
+-   [**Software Assurance Forum for Excellence in Code (SAFECode)**](https://safecode.org/)  – O SAFECode é um esforço global liderado pela indústria para identificar e promover as  **melhores práticas para desenvolver e fornecer software, hardware e serviços mais seguros e confiáveis.**
+-   [**Open Web Application Security Project® (OWASP®)**](https://owasp.org/)  – O **Open Web Application Security Project (OWASP)** é uma fundação sem fins lucrativos que fornece orientação sobre como desenvolver, comprar e manter aplicativos de software confiáveis e seguros.  **OWASP é conhecido por sua popular lista Top 10 de vulnerabilidades de segurança de aplicativos da web.**
+-   **[International Organization for Standardization (ISO)](https://www.itgovernance.asia/iso27000-family)** – Normas ISO foram criadas para fornecer orientação, coordenação, simplificação e unificação de critérios para empresas e organizações. A família  **ISO 27000** é um conjunto de certificações de segurança da informação e proteção de dados. Elas servem como base para a criação de um **Sistema de Gestão de Segurança da Informação (SGSI)** em organizações de pequeno, médio e grande porte.
+-   [**CIS Critical Security Controls**](https://www.cisecurity.org/controls)  – **CIS Controls**  é uma publicação de diretrizes de melhores práticas para segurança.
