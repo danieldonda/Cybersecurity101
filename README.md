@@ -45,6 +45,8 @@ O mercado de trabalho em cibersegurança é semelhante aos outros: quanto mais q
 
 🚨 Acesse *[Roteiro de certificação de segurança](https://danieldonda.com/roteiro-de-certificacao-de-seguranca/)*
 
+---
+
 ### 🔒 Fundamentos de Cibersegurança
 
 A trilha de aprendizado **pode variar com base nos objetivos individuais** e nas especialidades desejadas, mas aqui estão os fundamentos que, em geral, todos os profissionais de cibersegurança devem considerar.
@@ -141,10 +143,7 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 -   [BWCON](http://www.bwcon.com.br/) (Recife)
 -   [Gartner Security & Risk Management Summit](https://www.gartner.com/events/pt/la/security) (São Paulo)
 
-
-
 ## 🔗Recursos importantes:
-
 
 -   **Laboratórios Virtuais**: São ambientes controlados onde se pode praticar e testar habilidades de cibersegurança.
     
