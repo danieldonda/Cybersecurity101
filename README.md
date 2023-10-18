@@ -1,10 +1,12 @@
-# ⚠️ **COMECE POR AQUI!**
+# 📣 **COMECE POR AQUI!**
 
 Um guia abrangente para iniciantes na área de cibersegurança.
 
 ## 📚Trilha de Estudo
 
-### 🎓Faculdade vs. 💼 Certificações para Cibersegurança
+### Eu devo fazer Faculdade ou uma certificaão para começar a trabalhar em Cibersegurança 🤔 ?
+
+O mercado de trabalho em cibersegurança é semelhante aos outros: quanto mais qualificações você tiver, melhor. Afinal, o mercado está se tornando competitivo, e você deve sempre se destacar para conquistar uma oportunidade.
 
 ### 🎓Faculdade Prós e Contras 
 
