@@ -287,6 +287,18 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 	- [John Hammond](https://www.youtube.com/c/JohnHammond010)  - Oferece tutoriais, desafios de CTF e dicas sobre segurança cibernética e ethical hacking.
 
 
+## 💎Awesome Github – Repositórios para cibersegurança
+
+-   [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+-   [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+-   [Awesome Security](https://github.com/sbilly/awesome-security)
+-   [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+-   [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
+-   [Awesome Pentest Tools](https://github.com/gwen001/pentest-tools)
+-   [Awesome Forensic Tools](https://github.com/ivbeg/awesome-forensicstools)
+-   [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+
+---
 ## 🔐 Frameworks e Melhores Práticas
 
  
