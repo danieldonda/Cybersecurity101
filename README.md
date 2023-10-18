@@ -1,4 +1,4 @@
-❗️ 👉 *COMECE POR AQUI!* 👈 ❗️
+#❗️ 👉 **COMECE POR AQUI!** 👈 ❗️
 
 Um guia abrangente para iniciantes na área de cibersegurança.
 
