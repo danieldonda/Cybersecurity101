@@ -11,7 +11,7 @@ Um guia abrangente para iniciantes na área de cibersegurança.
  -  [Guia de Certificações](#-guia-de-certifica%C3%A7%C3%B5es)
  - [Fundamentos de Cibersegurança](#-fundamentos-de-ciberseguran%C3%A7a)
  -  [Soft skills](#soft-skills)
- -  [Livros recomendados](
+ -  [Livros recomendados](#-livros-recomendados-para-iniciar)
  -  [Eventos no Brasil](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-eventos-no-brasil)
  -  [Laboratórios Virtuais](#laborat%C3%B3rios-virtuais)
  -  [Desafios CTF (Capture The Flag)](#%EF%B8%8Fdesafios-ctf-capture-the-flag)
