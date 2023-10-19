@@ -237,7 +237,7 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 
 ## 🔐 Ferramentas Essenciais:
 
-- **Nmap**: Ferramenta de escaneamento de portas e descoberta de rede.
+- **Nmap**: Ferramenta de escaneamento de portas e descoberta de rede e scan de vuln.
 - **Wireshark**: Analisador de protocolo de rede.
 - **Metasploit**: Framework de teste de penetração.
 - **Burp Suite**: Ferramenta de teste de segurança para aplicações web.
