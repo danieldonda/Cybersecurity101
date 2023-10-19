@@ -3,7 +3,7 @@
 
 Um guia abrangente para iniciantes na área de cibersegurança.
 
-<img src="https://github.com/danieldonda/Cybersecurity101/assets/16530643/33aa3883-9e3c-482c-b821-df63ce22ec1b" width="300" >
+<img src="https://github.com/danieldonda/Cybersecurity101/assets/16530643/699e9e70-8764-457b-a545-ac73dc66bb86" width="300" >
 
 ## 📖 Conteúdo
 
