@@ -11,6 +11,7 @@ Um guia abrangente para iniciantes na área de cibersegurança.
  -  [Guia de Certificações](#-guia-de-certifica%C3%A7%C3%B5es)
  - [Fundamentos de Cibersegurança](#-fundamentos-de-ciberseguran%C3%A7a)
  -  [Soft skills](#soft-skills)
+ -  [Livros recomendados](
  -  [Eventos no Brasil](https://github.com/danieldonda/1stStepCyberSec/blob/main/README.md#-eventos-no-brasil)
  -  [Laboratórios Virtuais](#laborat%C3%B3rios-virtuais)
  -  [Desafios CTF (Capture The Flag)](#%EF%B8%8Fdesafios-ctf-capture-the-flag)
@@ -144,8 +145,22 @@ Pensando em cibersegurança e nas empresas no qual eu trabalhei, notei que os so
 
 Leia mais sobre o tema em [Psicologia-Online](https://br.psicologia-online.com/soft-skills-o-que-sao-quais-sao-e-exemplos-440.html).
 
+## 📚 Livros recomendados para iniciar
+
+- [Análise de Tráfego em Redes TCP/IP: Utilize Tcpdump na Análise de Tráfegos em Qualquer Sistema Operacional ](https://amzn.to/48WyP0N)
+- [Testes de Invasão: uma Introdução Prática ao Hacking ](https://amzn.to/48W5JP8)
+- [Técnicas de Invasão: Aprenda as técnicas usadas por hackers em invasões reais](https://amzn.to/400wIow)
+
+## 📚 Livros para pesquisa e entendimento
+
+ - [Redes de Computadores](https://amzn.to/46Mhkym)
+ - [Perícia forense digital: Guia prático com uso do sistema operacional Windows](https://amzn.to/3rYOmwq)
+ - [Programação Shell Linux: Referência Definitiva da Linguagem Shell](https://amzn.to/48SXYtn)
+
+
 ## 🗺 Eventos no Brasil
 Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas oportunidades.
+
 
 -   [You Shot The Sheriff](https://www.ysts.org/) (São Paulo)
 -   [Mind the Sec](https://mindthesec.com.br/) (São Paulo e Rio de Janeiro)
