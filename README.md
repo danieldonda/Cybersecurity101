@@ -212,9 +212,10 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 
 ## 🎧 Podcasts sobre Cibersegurança:
 
--   **Darknet Diaries**: Histórias reais de ataques cibernéticos.
--   **CyberWire**: Resumos diários sobre notícias.
--   **Smashing Security**: Notícias com um toque humorístico.
+-   **Darknet Diaries**  Histórias reais de ataques cibernéticos.
+-   **CyberWire** Resumos diários sobre notícias.
+-   **Smashing Security** Notícias com um toque humorístico.
+-   **Cyber Morning Call** Produzido pela Tempest com episódios diários
 
 ## 🔐 Ferramentas Essenciais:
 
