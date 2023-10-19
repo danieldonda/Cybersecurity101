@@ -3,7 +3,7 @@
 
 Um guia abrangente para iniciantes na área de cibersegurança.
 
-<img src="https://github.com/danieldonda/Cybersecurity101/assets/16530643/699e9e70-8764-457b-a545-ac73dc66bb86" width="300" >
+<img src="https://github.com/danieldonda/Cybersecurity101/assets/16530643/33aa3883-9e3c-482c-b821-df63ce22ec1b" width="300" >
 
 ## 📖 Conteúdo
 
@@ -342,3 +342,5 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 -   [Open Web Application Security Project® (OWASP®)](https://owasp.org/)  – O **Open Web Application Security Project (OWASP)** é uma fundação sem fins lucrativos que fornece orientação sobre como desenvolver, comprar e manter aplicativos de software confiáveis e seguros.  **OWASP é conhecido por sua popular lista Top 10 de vulnerabilidades de segurança de aplicativos da web.**
 -   [International Organization for Standardization (ISO)](https://www.itgovernance.asia/iso27000-family) – Normas ISO foram criadas para fornecer orientação, coordenação, simplificação e unificação de critérios para empresas e organizações. A família  **ISO 27000** é um conjunto de certificações de segurança da informação e proteção de dados. Elas servem como base para a criação de um **Sistema de Gestão de Segurança da Informação (SGSI)** em organizações de pequeno, médio e grande porte.
 -   [CIS Critical Security Controls](https://www.cisecurity.org/controls)  – **CIS Controls**  é uma publicação de diretrizes de melhores práticas para segurança.
+
+![_59085958-3469-41c1-be37-34a3de2c4913](https://github.com/danieldonda/Cybersecurity101/assets/16530643/eb075736-2500-4ce8-9fcb-3ad8e43abf13)
