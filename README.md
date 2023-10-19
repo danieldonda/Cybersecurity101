@@ -150,6 +150,7 @@ Leia mais sobre o tema em [Psicologia-Online](https://br.psicologia-online.com/s
 - [Análise de Tráfego em Redes TCP/IP: Utilize Tcpdump na Análise de Tráfegos em Qualquer Sistema Operacional ](https://amzn.to/48WyP0N)
 - [Testes de Invasão: uma Introdução Prática ao Hacking ](https://amzn.to/48W5JP8)
 - [Técnicas de Invasão: Aprenda as técnicas usadas por hackers em invasões reais](https://amzn.to/400wIow)
+- [Black Hat Python: Programação Python Para Hackers e Pentesters](https://amzn.to/3Q06VbG)
 
 ## 📚 Livros para pesquisa e entendimento
 
@@ -157,6 +158,8 @@ Leia mais sobre o tema em [Psicologia-Online](https://br.psicologia-online.com/s
  - [Perícia forense digital: Guia prático com uso do sistema operacional Windows](https://amzn.to/3rYOmwq)
  - [Programação Shell Linux: Referência Definitiva da Linguagem Shell](https://amzn.to/48SXYtn)
 
+## 📚 Livros de cybersecurity em inglês
+- [Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali](https://amzn.to/3rPELYT)
 
 ## 🗺 Eventos no Brasil
 Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas oportunidades.
