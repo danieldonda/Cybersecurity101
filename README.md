@@ -253,6 +253,7 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 - **Kali Linux**: Distribuição Linux para teste de penetração.
 - **Parrot Security OS**: Distribuição Linux focada em segurança e forense digital.
 - **Ghidra**: Desmontador e decompilador.
+- **Dark-Moon**: Pentester autônomo de código aberto (GPL-3.0) movido a IA; host MCP que orquestra ferramentas de segurança.
 - **Sqlmap**: Ferramenta de detecção e exploração de injeção SQL.
 - **OWASP ZAP**: Ferramenta de teste de penetração para aplicações web.
 - **Mimikatz**: Ferramenta de extração de credenciais.
