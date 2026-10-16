@@ -156,6 +156,7 @@ Leia mais sobre o tema em [Psicologia-Online](https://br.psicologia-online.com/s
 
  - [Redes de Computadores](https://amzn.to/46Mhkym)
  - [Perícia forense digital: Guia prático com uso do sistema operacional Windows](https://amzn.to/3rYOmwq)
+ - [Confronto Cibernético: Técnicas e táticas de enfrentamento e resposta a ameaças persistentes avançadas (APTs)](https://confrontocibernetico.com.br/)
  - [Programação Shell Linux: Referência Definitiva da Linguagem Shell](https://amzn.to/48SXYtn)
 
 ## 📚 Livros de cybersecurity em inglês
